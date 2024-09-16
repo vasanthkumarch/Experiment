@@ -5,7 +5,7 @@
 ###  ROLL NO :
 ###  DEPARTMENT:
 ## AIM: 
-To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
+To interface an ultrasonic pair and measure the distance in centimeters , calculate the erro
  
 ### COMPONENTS REQUIRED:
 1.	ultrasonic sensor module HC-SR04
